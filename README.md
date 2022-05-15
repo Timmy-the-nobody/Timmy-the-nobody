@@ -1,6 +1,6 @@
 # <p align="center">Hello, my name is Timmy 👋
-##### <p align="center">*I'm a passionate french developer and content creator*
-##### <p align="center">*I love computer science, graphic design, and more globally learning and creating new things.*
+#### <p align="center">*I'm a passionate french developer and content creator*
+#### <p align="center">*I love computer science, graphic design, and more globally learning and creating new things.*
 
 ## <p align="center">🛠️ Technologies, languages and tools
 ![](https://img.shields.io/badge/‎-Windows-95a5a6?logo=Windows)
