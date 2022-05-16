@@ -1,19 +1,19 @@
 ## <p align="center">Hello there, my name is Timmy 👋
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Timmy-the-nobody&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timmy-the-nobody&theme=github_dark">
-</p>
-
 <p align="center">I'm a passionate developer who love computer science, graphic design, and more globally learning and creating new things.
 
 <p align="center">My first approach to programming was on a sandbox game called Garry's Mod. Over the years spent on this game, I gained a lot of experience in programming (especially in Lua) and realized that it was my thing.
 
 <p align="center">I created several mods there, some of them published on an addon selling platform named gmodstore, but I spent most of my time on GMod working for communities as a freelancer.
 
-##
+## <p align="center">📈 Stats
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Timmy-the-nobody&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true">
+</p>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timmy-the-nobody&theme=github_dark">
+</p>
 
-#### <p align="center">🛠️ Technologies, languages and tools
+## <p align="center">🛠️ Technologies, languages and tools
 <p align="center">
     <img src="https://img.shields.io/badge/Windows-1c2f45?logo=Windows">
     <img src="https://img.shields.io/badge/Android-1c2f45?logo=Android">
