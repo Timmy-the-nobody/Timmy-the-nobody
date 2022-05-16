@@ -1,7 +1,7 @@
 ## <p align="center">Hello there, my name is Timmy 👋
 <p align="center">I'm a passionate developer who love computer science, graphic design, and more globally learning and creating new things.
 
-<p align="center">My first approach to programming was on a sandbox game called Garry's Mod. Over the years spent on this game, I gained a lot of experience in programming (especially in Lua) and realized that it was my thing.
+<p align="center">My first approach to programming was on a sandbox game called Garry's Mod. Over the years spent on this game, I gained some experience in programming (especially in Lua) and realized that it was my thing.
 
 <p align="center">I created several mods there, some of them published on an addon selling platform named gmodstore, but I spent most of my time on GMod working for communities as a freelancer.
 
