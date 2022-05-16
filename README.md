@@ -32,6 +32,7 @@
     <img src="https://img.shields.io/badge/GitHub-1c2f45?logo=GitHub">
     <img src="https://img.shields.io/badge/GitLab-1c2f45?logo=GitLab">
     <img src="https://img.shields.io/badge/GitKraken-1c2f45?logo=GitKraken">
+    <img src="https://img.shields.io/badge/WakaTime-1c2f45?logo=WakaTime">
     <img src="https://img.shields.io/badge/GIMP-1c2f45?logo=GIMP">
     <img src="https://img.shields.io/badge/Ableton_Live-1c2f45?logo=AbletonLive">
 </p>
