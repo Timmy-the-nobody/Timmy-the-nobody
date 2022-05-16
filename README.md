@@ -13,7 +13,7 @@
 
 ##
 
-### <p align="center">🛠️ Technologies, languages and tools
+#### <p align="center">🛠️ Technologies, languages and tools
 <p align="center">
     <img src="https://img.shields.io/badge/Windows-1c2f45?logo=Windows">
     <img src="https://img.shields.io/badge/Android-1c2f45?logo=Android">
@@ -35,27 +35,19 @@
     <img src="https://img.shields.io/badge/Ableton_Live-1c2f45?logo=AbletonLive">
 </p>
 
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-![]()
-
 ## 🛒 [Gmodstore.com](https://www.gmodstore.com/users/timmythenobody/addons) addons
-[![](https://img.shields.io/badge/🍇_Winemaking_System-1c2f45)](https://www.gmodstore.com/market/view/winemaking-system)
-[![](https://img.shields.io/badge/🚧_VMS_System-1c2f45)](https://www.gmodstore.com/market/view/7421)
-[![](https://img.shields.io/badge/📠_OnePrint-1c2f45)](https://www.gmodstore.com/market/view/7320)
-[![](https://img.shields.io/badge/⌚_GSmartWatch-1c2f45)](https://www.gmodstore.com/market/view/gsmartwatch-unique-and-customizable-watches-for-your-server)
-[![](https://img.shields.io/badge/💸_Cash_Logistics_System-1c2f45)](https://www.gmodstore.com/market/view/ultimate-brinks-system-ubs)
-[![](https://img.shields.io/badge/🐝_Beekeeping_System-1c2f45)](https://www.gmodstore.com/market/view/beekeeping-system)
+- [![](https://img.shields.io/badge/🍇_Winemaking_System-1c2f45)](https://www.gmodstore.com/market/view/winemaking-system)
+- [![](https://img.shields.io/badge/🚧_VMS_System-1c2f45)](https://www.gmodstore.com/market/view/7421)
+- [![](https://img.shields.io/badge/📠_OnePrint-1c2f45)](https://www.gmodstore.com/market/view/7320)
+- [![](https://img.shields.io/badge/⌚_GSmartWatch-1c2f45)](https://www.gmodstore.com/market/view/gsmartwatch-unique-and-customizable-watches-for-your-server)
+- [![](https://img.shields.io/badge/💸_Cash_Logistics_System-1c2f45)](https://www.gmodstore.com/market/view/ultimate-brinks-system-ubs)
+- [![](https://img.shields.io/badge/🐝_Beekeeping_System-1c2f45)](https://www.gmodstore.com/market/view/beekeeping-system)
 
-## 🔎 How to reach me:
+## 🔎 How to reach me
+- [![](https://img.shields.io/badge/‎-GitLab-95a5a6?logo=GitLab)](https://gitlab.com/timmy.the.nobody)
+- [![](https://img.shields.io/badge/‎-Steam-95a5a6?logo=Steam)](https://steamcommunity.com/id/timmythenobody)
+- [![](https://img.shields.io/badge/‎-Discord-95a5a6?logo=Discord)](https://discordapp.com/users/317885698747400194)
+- [![](https://img.shields.io/badge/‎-YouTube-95a5a6?logo=YouTube)](https://www.youtube.com/channel/UCxGjRU8uZkj7oK8Tv22aC7A/featured)
+- [![](https://img.shields.io/badge/‎-Twitch-95a5a6?logo=Twitch)](https://www.twitch.tv/timmythenobody)
+
 📧 e-mail: timmy.the.nobody@gmail.com
-
-[![](https://img.shields.io/badge/‎-GitLab-95a5a6?logo=GitLab)](https://gitlab.com/timmy.the.nobody)
-[![](https://img.shields.io/badge/‎-Steam-95a5a6?logo=Steam)](https://steamcommunity.com/id/timmythenobody)
-[![](https://img.shields.io/badge/‎-Discord-95a5a6?logo=Discord)](https://discordapp.com/users/317885698747400194)
-[![](https://img.shields.io/badge/‎-YouTube-95a5a6?logo=YouTube)](https://www.youtube.com/channel/UCxGjRU8uZkj7oK8Tv22aC7A/featured)
-[![](https://img.shields.io/badge/‎-Twitch-95a5a6?logo=Twitch)](https://www.twitch.tv/timmythenobody)
