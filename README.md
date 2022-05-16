@@ -2,9 +2,7 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Timmy-the-nobody&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true">
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timmy-the-nobody&layout=compact&theme=github_dark">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timmy-the-nobody&theme=github_dark">
 </p>
 
 <p align="center">I'm a passionate developer who love computer science, graphic design, and more globally learning and creating new things.
