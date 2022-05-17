@@ -16,26 +16,26 @@
 </p>
 
 ## 🛠️ Technologies, languages and tools
-<p align="center">
-    <img src="https://img.shields.io/badge/Windows-1c2f45?logo=Windows">
-    <img src="https://img.shields.io/badge/Android-1c2f45?logo=Android">
-    <img src="https://img.shields.io/badge/Unreal_Engine-1c2f45?logo=UnrealEngine">
-    <img src="https://img.shields.io/badge/Lua-1c2f45?logo=Lua">
-    <img src="https://img.shields.io/badge/JavaScript-1c2f45?logo=JavaScript">
-    <img src="https://img.shields.io/badge/HTML5-1c2f45?logo=HTML5">
-    <img src="https://img.shields.io/badge/CSS-1c2f45?logo=CSS3">
-    <img src="https://img.shields.io/badge/MySQL-1c2f45?logo=MySQL">
-    <img src="https://img.shields.io/badge/SQLite-1c2f45?logo=SQLite">
-    <img src="https://img.shields.io/badge/PostgreSQL-1c2f45?logo=PostgreSQL">
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-1c2f45?logo=VisualStudioCode">
-    <img src="https://img.shields.io/badge/Git-1c2f45?logo=Git">
-    <img src="https://img.shields.io/badge/GitHub-1c2f45?logo=GitHub">
-    <img src="https://img.shields.io/badge/GitLab-1c2f45?logo=GitLab">
-    <img src="https://img.shields.io/badge/GitKraken-1c2f45?logo=GitKraken">
-    <img src="https://img.shields.io/badge/WakaTime-1c2f45?logo=WakaTime">
-    <img src="https://img.shields.io/badge/GIMP-1c2f45?logo=GIMP">
-    <img src="https://img.shields.io/badge/Ableton_Live-1c2f45?logo=AbletonLive">
-</p>
+
+![](https://img.shields.io/badge/Windows-1c2f45?logo=Windows)
+![](https://img.shields.io/badge/Android-1c2f45?logo=Android)
+![](https://img.shields.io/badge/Unreal_Engine-1c2f45?logo=UnrealEngine)
+![](https://img.shields.io/badge/Lua-1c2f45?logo=Lua)
+![](https://img.shields.io/badge/JavaScript-1c2f45?logo=JavaScript)
+![](https://img.shields.io/badge/HTML5-1c2f45?logo=HTML5)
+![](https://img.shields.io/badge/CSS-1c2f45?logo=CSS3)
+![](https://img.shields.io/badge/MySQL-1c2f45?logo=MySQL)
+![](https://img.shields.io/badge/SQLite-1c2f45?logo=SQLite)
+![](https://img.shields.io/badge/PostgreSQL-1c2f45?logo=PostgreSQL)
+![](https://img.shields.io/badge/Visual_Studio_Code-1c2f45?logo=VisualStudioCode)
+![](https://img.shields.io/badge/Git-1c2f45?logo=Git)
+![](https://img.shields.io/badge/GitHub-1c2f45?logo=GitHub)
+![](https://img.shields.io/badge/GitLab-1c2f45?logo=GitLab)
+![](https://img.shields.io/badge/GitKraken-1c2f45?logo=GitKraken)
+![](https://img.shields.io/badge/WakaTime-1c2f45?logo=WakaTime)
+![](https://img.shields.io/badge/GIMP-1c2f45?logo=GIMP)
+![](https://img.shields.io/badge/Ableton_Live-1c2f45?logo=AbletonLive)
+
 
 ## 🛒 [Gmodstore.com](https://www.gmodstore.com/users/timmythenobody/addons) addons
 - [![](https://img.shields.io/badge/🍇_Winemaking_System-1c2f45)](https://www.gmodstore.com/market/view/winemaking-system)
