@@ -3,7 +3,7 @@ I'm a passionate developer who love computer science, graphic design, and more g
 
 My first approach to programming was on a sandbox game called Garry's Mod. Over the years spent on this game, I gained some experience in programming (especially in Lua) and realized that it was my thing.
 
-I created several mods there, some of them published on an addon selling platform named gmodstore, but I spent most of my time on GMod working for communities as a freelancer.
+I created several mods on a few sandbox games, some of these mods are for sale on the platform called gmodstore, but I spent most of my time on these games working for communities as a freelancer.
 
 ## 📈 Stats
 
