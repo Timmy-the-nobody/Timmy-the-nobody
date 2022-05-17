@@ -5,20 +5,17 @@
 
 <p align="center">I created several mods there, some of them published on an addon selling platform named gmodstore, but I spent most of my time on GMod working for communities as a freelancer.
 
-## <p align="center">📈 Stats
+## 📈 Stats
+
+[![wakatime](https://wakatime.com/badge/user/82906db0-5de5-44ab-a813-73c42b06725a.svg)](https://wakatime.com/@82906db0-5de5-44ab-a813-73c42b06725a)
+[![github](https://img.shields.io/github/followers/Timmy-the-nobody?logo=github)](https://github.com/alanhamlett?tab=followers)
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Timmy-the-nobody&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true">
-</p>
-<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timmy-the-nobody&theme=github_dark">
 </p>
-<p align="center">
-    <a href=”https://wakatime.com/@TimmyTheNobody”>
-        <img src="https://wakatime.com/badge/user/82906db0-5de5-44ab-a813-73c42b06725a.svg">
-    </a>
-</p>
 
-## <p align="center">🛠️ Technologies, languages and tools
+## 🛠️ Technologies, languages and tools
 <p align="center">
     <img src="https://img.shields.io/badge/Windows-1c2f45?logo=Windows">
     <img src="https://img.shields.io/badge/Android-1c2f45?logo=Android">
@@ -40,9 +37,7 @@
     <img src="https://img.shields.io/badge/Ableton_Live-1c2f45?logo=AbletonLive">
 </p>
 
-##
-
-### 🛒 [Gmodstore.com](https://www.gmodstore.com/users/timmythenobody/addons) addons
+## 🛒 [Gmodstore.com](https://www.gmodstore.com/users/timmythenobody/addons) addons
 - [![](https://img.shields.io/badge/🍇_Winemaking_System-1c2f45)](https://www.gmodstore.com/market/view/winemaking-system)
 - [![](https://img.shields.io/badge/🚧_VMS_System-1c2f45)](https://www.gmodstore.com/market/view/7421)
 - [![](https://img.shields.io/badge/📠_OnePrint-1c2f45)](https://www.gmodstore.com/market/view/7320)
@@ -50,7 +45,7 @@
 - [![](https://img.shields.io/badge/💸_Cash_Logistics_System-1c2f45)](https://www.gmodstore.com/market/view/ultimate-brinks-system-ubs)
 - [![](https://img.shields.io/badge/🐝_Beekeeping_System-1c2f45)](https://www.gmodstore.com/market/view/beekeeping-system)
 
-### 🔎 How to reach me
+## 🔎 How to reach me
 📧 e-mail: timmy.the.nobody@gmail.com
 
 - [![](https://img.shields.io/badge/‎-GitLab-95a5a6?logo=GitLab)](https://gitlab.com/timmy.the.nobody)
