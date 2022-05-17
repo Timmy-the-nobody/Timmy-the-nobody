@@ -46,10 +46,9 @@
 - [![](https://img.shields.io/badge/🐝_Beekeeping_System-1c2f45)](https://www.gmodstore.com/market/view/beekeeping-system)
 
 ## 🔎 How to reach me
-📧 e-mail: timmy.the.nobody@gmail.com
-
-- [![](https://img.shields.io/badge/‎-GitLab-95a5a6?logo=GitLab)](https://gitlab.com/timmy.the.nobody)
-- [![](https://img.shields.io/badge/‎-Steam-95a5a6?logo=Steam)](https://steamcommunity.com/id/timmythenobody)
-- [![](https://img.shields.io/badge/‎-Discord-95a5a6?logo=Discord)](https://discordapp.com/users/317885698747400194)
-- [![](https://img.shields.io/badge/‎-YouTube-95a5a6?logo=YouTube)](https://www.youtube.com/channel/UCxGjRU8uZkj7oK8Tv22aC7A/featured)
-- [![](https://img.shields.io/badge/‎-Twitch-95a5a6?logo=Twitch)](https://www.twitch.tv/timmythenobody)
+[![](https://img.shields.io/badge/E--Mail-1c2f45?logo=Gmail)](mailto:timmy.the.nobody@gmail.com)
+[![](https://img.shields.io/badge/GitLab-1c2f45?logo=GitLab)](https://gitlab.com/timmy.the.nobody)
+[![](https://img.shields.io/badge/Steam-1c2f45?logo=Steam)](https://steamcommunity.com/id/timmythenobody)
+[![](https://img.shields.io/badge/Discord-1c2f45?logo=Discord)](https://discordapp.com/users/317885698747400194)
+[![](https://img.shields.io/badge/YouTube-1c2f45?logo=YouTube)](https://www.youtube.com/channel/UCxGjRU8uZkj7oK8Tv22aC7A/featured)
+[![](https://img.shields.io/badge/Twitch-1c2f45?logo=Twitch)](https://www.twitch.tv/timmythenobody)
