@@ -10,7 +10,7 @@
 [![wakatime](https://wakatime.com/badge/user/82906db0-5de5-44ab-a813-73c42b06725a.svg)](https://wakatime.com/@82906db0-5de5-44ab-a813-73c42b06725a)
 [![github](https://img.shields.io/github/followers/Timmy-the-nobody?logo=github)](https://github.com/Timmy-the-nobody?tab=followers)
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Timmy-the-nobody&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timmy-the-nobody&theme=github_dark">
 </p>
@@ -38,12 +38,12 @@
 
 
 ## 🛒 [Gmodstore.com](https://www.gmodstore.com/users/timmythenobody/addons) addons
-- [![](https://img.shields.io/badge/🍇_Winemaking_System-1c2f45)](https://www.gmodstore.com/market/view/winemaking-system)
-- [![](https://img.shields.io/badge/🚧_VMS_System-1c2f45)](https://www.gmodstore.com/market/view/7421)
-- [![](https://img.shields.io/badge/📠_OnePrint-1c2f45)](https://www.gmodstore.com/market/view/7320)
-- [![](https://img.shields.io/badge/⌚_GSmartWatch-1c2f45)](https://www.gmodstore.com/market/view/gsmartwatch-unique-and-customizable-watches-for-your-server)
-- [![](https://img.shields.io/badge/💸_Cash_Logistics_System-1c2f45)](https://www.gmodstore.com/market/view/ultimate-brinks-system-ubs)
-- [![](https://img.shields.io/badge/🐝_Beekeeping_System-1c2f45)](https://www.gmodstore.com/market/view/beekeeping-system)
+[![](https://img.shields.io/badge/🍇_Winemaking_System-1c2f45)](https://www.gmodstore.com/market/view/winemaking-system)
+[![](https://img.shields.io/badge/🚧_VMS_System-1c2f45)](https://www.gmodstore.com/market/view/7421)
+[![](https://img.shields.io/badge/📠_OnePrint-1c2f45)](https://www.gmodstore.com/market/view/7320)
+[![](https://img.shields.io/badge/⌚_GSmartWatch-1c2f45)](https://www.gmodstore.com/market/view/gsmartwatch-unique-and-customizable-watches-for-your-server)
+[![](https://img.shields.io/badge/💸_Cash_Logistics_System-1c2f45)](https://www.gmodstore.com/market/view/ultimate-brinks-system-ubs)
+[![](https://img.shields.io/badge/🐝_Beekeeping_System-1c2f45)](https://www.gmodstore.com/market/view/beekeeping-system)
 
 ## 🔎 How to reach me
 [![](https://img.shields.io/badge/E--Mail-1c2f45?logo=Gmail)](mailto:timmy.the.nobody@gmail.com)
