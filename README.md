@@ -8,7 +8,7 @@
 ## 📈 Stats
 
 [![wakatime](https://wakatime.com/badge/user/82906db0-5de5-44ab-a813-73c42b06725a.svg)](https://wakatime.com/@82906db0-5de5-44ab-a813-73c42b06725a)
-[![github](https://img.shields.io/github/followers/Timmy-the-nobody?logo=github)](https://github.com/alanhamlett?tab=followers)
+[![github](https://img.shields.io/github/followers/Timmy-the-nobody?logo=github)](https://github.com/Timmy-the-nobody?tab=followers)
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Timmy-the-nobody&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true">
