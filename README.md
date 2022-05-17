@@ -12,6 +12,9 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timmy-the-nobody&theme=github_dark">
 </p>
+<p align="center">
+    <img src="https://wakatime.com/badge/user/82906db0-5de5-44ab-a813-73c42b06725a.svg">
+</p>
 
 ## <p align="center">🛠️ Technologies, languages and tools
 <p align="center">
