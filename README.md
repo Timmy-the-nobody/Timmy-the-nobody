@@ -53,3 +53,5 @@ I created several mods on a few sandbox games, some of these mods are for sale o
 [![](https://img.shields.io/badge/Discord-1c2f45?logo=Discord)](https://discordapp.com/users/317885698747400194)
 [![](https://img.shields.io/badge/YouTube-1c2f45?logo=YouTube)](https://www.youtube.com/channel/UCxGjRU8uZkj7oK8Tv22aC7A/featured)
 [![](https://img.shields.io/badge/Twitch-1c2f45?logo=Twitch)](https://www.twitch.tv/timmythenobody)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y76Q9RC)
