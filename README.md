@@ -22,7 +22,7 @@ I created several mods on a few sandbox games, some of these mods are for sale o
 ![](https://img.shields.io/badge/Unreal_Engine-1c2f45?logo=UnrealEngine)
 ![](https://img.shields.io/badge/Lua-1c2f45?logo=Lua)
 ![](https://img.shields.io/badge/JavaScript-1c2f45?logo=JavaScript)
-![](https://img.shields.io/badge/HTML5-1c2f45?logo=HTML5)
+![](https://img.shields.io/badge/HTML-1c2f45?logo=HTML5)
 ![](https://img.shields.io/badge/CSS-1c2f45?logo=CSS3)
 ![](https://img.shields.io/badge/MySQL-1c2f45?logo=MySQL)
 ![](https://img.shields.io/badge/SQLite-1c2f45?logo=SQLite)
