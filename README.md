@@ -1,10 +1,10 @@
 ## <p align="center">Hello there, my name is Timmy 👋
 I'm a passionate developer who love computer science, graphic design, and more globally learning and creating new things 🚀
 
-My first approach to programming was on a sandbox game called Garry's Mod. Over the years spent on this game, I gained some experience in programming (especially in Lua) and realized that it was my thing.
+<!-- My first approach to programming was on a sandbox game called Garry's Mod. Over the years spent on this game, I gained some experience in programming (especially in Lua) and realized that it was my thing.
 
 I created several mods on a few sandbox games, some of these mods are for sale on the platform called gmodstore, but I spent most of my time on these games working for communities as a freelancer.
-
+ -->
 ## 📈 Stats
 
 [![wakatime](https://wakatime.com/badge/user/82906db0-5de5-44ab-a813-73c42b06725a.svg)](https://wakatime.com/@82906db0-5de5-44ab-a813-73c42b06725a)
