@@ -1,5 +1,5 @@
 ## <p align="center">Hello there, my name is Timmy 👋
-I'm a passionate developer who love computer science, graphic design, and more globally learning and creating new things 🚀
+<p align="center">I'm a passionate developer who love computer science, graphic design, and more globally learning and creating new things 🚀
 
 <!-- My first approach to programming was on a sandbox game called Garry's Mod. Over the years spent on this game, I gained some experience in programming (especially in Lua) and realized that it was my thing.
 
