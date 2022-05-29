@@ -5,11 +5,8 @@
 
 I created several mods on a few sandbox games, some of these mods are for sale on the platform called gmodstore, but I spent most of my time on these games working for communities as a freelancer.
  -->
+ 
 ## 📈 Stats
-
-[![wakatime](https://wakatime.com/badge/user/82906db0-5de5-44ab-a813-73c42b06725a.svg)](https://wakatime.com/@82906db0-5de5-44ab-a813-73c42b06725a)
-<!-- [![github](https://img.shields.io/github/followers/Timmy-the-nobody?logo=github)](https://github.com/Timmy-the-nobody?tab=followers) -->
-
 <p align="center">
  <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timmy-the-nobody&theme=github_dark"> -->
  <img src="https://github-readme-stats.vercel.app/api?username=Timmy-the-nobody&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true">
@@ -17,8 +14,10 @@ I created several mods on a few sandbox games, some of these mods are for sale o
  <img src="https://activity-graph.herokuapp.com/graph?username=Timmy-the-nobody&theme=react-dark&hide_border=true&area=true">
 </p>
 
-## 🛠️ Technologies, languages and tools
+[![wakatime](https://wakatime.com/badge/user/82906db0-5de5-44ab-a813-73c42b06725a.svg)](https://wakatime.com/@82906db0-5de5-44ab-a813-73c42b06725a)
+[![github](https://img.shields.io/github/followers/Timmy-the-nobody?logo=github)](https://github.com/Timmy-the-nobody?tab=followers)
 
+## 🛠️ Technologies, languages and tools
 <!-- ![](https://img.shields.io/badge/Windows-1c2f45?logo=Windows)
 ![](https://img.shields.io/badge/Android-1c2f45?logo=Android) -->
 ![](https://img.shields.io/badge/Lua-1c2f45?logo=Lua)
