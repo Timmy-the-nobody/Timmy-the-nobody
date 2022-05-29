@@ -18,9 +18,8 @@ I created several mods on a few sandbox games, some of these mods are for sale o
 
 ## 🛠️ Technologies, languages and tools
 
-![](https://img.shields.io/badge/Windows-1c2f45?logo=Windows)
-![](https://img.shields.io/badge/Android-1c2f45?logo=Android)
-![](https://img.shields.io/badge/Unreal_Engine-1c2f45?logo=UnrealEngine)
+<!-- ![](https://img.shields.io/badge/Windows-1c2f45?logo=Windows)
+![](https://img.shields.io/badge/Android-1c2f45?logo=Android) -->
 ![](https://img.shields.io/badge/Lua-1c2f45?logo=Lua)
 ![](https://img.shields.io/badge/JavaScript-1c2f45?logo=JavaScript)
 ![](https://img.shields.io/badge/HTML-1c2f45?logo=HTML5)
@@ -28,6 +27,7 @@ I created several mods on a few sandbox games, some of these mods are for sale o
 ![](https://img.shields.io/badge/MySQL-1c2f45?logo=MySQL)
 ![](https://img.shields.io/badge/SQLite-1c2f45?logo=SQLite)
 ![](https://img.shields.io/badge/PostgreSQL-1c2f45?logo=PostgreSQL)
+![](https://img.shields.io/badge/Unreal_Engine-1c2f45?logo=UnrealEngine)
 ![](https://img.shields.io/badge/Visual_Studio_Code-1c2f45?logo=VisualStudioCode)
 ![](https://img.shields.io/badge/Git-1c2f45?logo=Git)
 ![](https://img.shields.io/badge/GitHub-1c2f45?logo=GitHub)
