@@ -15,7 +15,7 @@ I created several mods on a few sandbox games, some of these mods are for sale o
 </p>
 
 [![wakatime](https://wakatime.com/badge/user/82906db0-5de5-44ab-a813-73c42b06725a.svg)](https://wakatime.com/@82906db0-5de5-44ab-a813-73c42b06725a)
-[![github](https://img.shields.io/github/followers/Timmy-the-nobody?logo=github)](https://github.com/Timmy-the-nobody?tab=followers)
+<!-- [![github](https://img.shields.io/github/followers/Timmy-the-nobody?logo=github)](https://github.com/Timmy-the-nobody?tab=followers) -->
 
 ## 🛠️ Technologies, languages and tools
 <!-- ![](https://img.shields.io/badge/Windows-1c2f45?logo=Windows)
