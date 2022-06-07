@@ -20,6 +20,7 @@ I created several mods on a few sandbox games, some of these mods are for sale o
 ## 🛠️ Technologies, languages and tools
 <!-- ![](https://img.shields.io/badge/Windows-1c2f45?logo=Windows)
 ![](https://img.shields.io/badge/Android-1c2f45?logo=Android) -->
+
 ![](https://img.shields.io/badge/Lua-1c2f45?logo=Lua)
 ![](https://img.shields.io/badge/JavaScript-1c2f45?logo=JavaScript)
 ![](https://img.shields.io/badge/HTML-1c2f45?logo=HTML5)
