@@ -10,7 +10,9 @@ I created several mods on a few sandbox games, some of these mods are for sale o
 <p align="center">
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timmy-the-nobody&layout=compact&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true"> -->
  <img src="https://github-readme-stats.vercel.app/api?username=Timmy-the-nobody&count_private=true&show_icons=true&theme=github_dark">
+ <br>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Timmy-the-nobody&theme=github-dark-blue">
+ <br>
  <img src="https://activity-graph.herokuapp.com/graph?username=Timmy-the-nobody&theme=react-dark&hide_border=true&area=true&custom_title=Daily%20Contributions">
 </p>
 
