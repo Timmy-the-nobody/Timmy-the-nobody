@@ -1,25 +1,20 @@
-## <p align="left">Hello there, my name is Timmy 👋
-I am a passionate developer who loves computer science, graphic design, and more globally to learn and create new things.
-
-<!-- My first approach to programming was on a sandbox game called Garry's Mod. Over the years spent on this game, I gained some experience in programming (especially in Lua) and realized that it was my thing.
-
-I created several mods on a few sandbox games, some of these mods are for sale on the platform called gmodstore, but I spent most of my time on these games working for communities as a freelancer.
- -->
+## Hello there, my name is Timmy 👋
+<p>I am a passionate developer who loves computer science, graphic design, and more globally to learn and create new things.</p>
+<p>I created several mods on a few sandbox games, some of these mods are for sale, but I spent most of my time on these games working for communities as a freelancer.</p>
  
-#### 📈 Cool stats thing
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timmy-the-nobody&layout=compact&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true"> -->
- <img src="https://github-readme-stats.vercel.app/api?username=Timmy-the-nobody&count_private=true&show_icons=true&theme=github_dark">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Timmy-the-nobody&theme=github-dark-blue">
- <br>
- <!--  <img src="https://activity-graph.herokuapp.com/graph?username=Timmy-the-nobody&theme=react-dark&hide_border=true&area=true&custom_title=...">
-</p> -->
-
+## 📈 Cool stats thing
 [![wakatime](https://wakatime.com/badge/user/82906db0-5de5-44ab-a813-73c42b06725a.svg)](https://wakatime.com/@82906db0-5de5-44ab-a813-73c42b06725a)
 ![](https://komarev.com/ghpvc/?username=Timmy-the-nobody)
-<!-- [![github](https://img.shields.io/github/followers/Timmy-the-nobody?logo=github)](https://github.com/Timmy-the-nobody?tab=followers) -->
 
-#### 🛠️ Technologies, languages and tools
+<!-- [![github](https://img.shields.io/github/followers/Timmy-the-nobody?logo=github)](https://github.com/Timmy-the-nobody?tab=followers) -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timmy-the-nobody&layout=compact&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true"> -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=Timmy-the-nobody&count_private=true&show_icons=true&theme=github_dark">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Timmy-the-nobody&theme=github-dark-blue">
+
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=Timmy-the-nobody&theme=react-dark&hide_border=true&area=true&custom_title=...">-->
+
+## 🛠️ Technologies, languages and tools
 <!-- ![](https://img.shields.io/badge/Windows-1c2f45?logo=Windows)
 ![](https://img.shields.io/badge/Android-1c2f45?logo=Android) -->
 
@@ -41,7 +36,7 @@ I created several mods on a few sandbox games, some of these mods are for sale o
 ![](https://img.shields.io/badge/Ableton_Live-1c2f45?logo=AbletonLive)
 
 
-#### 🛒 [Gmodstore.com](https://www.gmodstore.com/users/timmythenobody/addons) addons
+## 🛒 [Gmodstore.com](https://www.gmodstore.com/users/timmythenobody/addons) addons
 [![](https://img.shields.io/badge/🍇_Winemaking_System-1c2f45)](https://www.gmodstore.com/market/view/winemaking-system)
 [![](https://img.shields.io/badge/🚧_VMS_System-1c2f45)](https://www.gmodstore.com/market/view/7421)
 [![](https://img.shields.io/badge/📠_OnePrint-1c2f45)](https://www.gmodstore.com/market/view/7320)
@@ -49,7 +44,7 @@ I created several mods on a few sandbox games, some of these mods are for sale o
 [![](https://img.shields.io/badge/💸_Cash_Logistics_System-1c2f45)](https://www.gmodstore.com/market/view/ultimate-brinks-system-ubs)
 [![](https://img.shields.io/badge/🐝_Beekeeping_System-1c2f45)](https://www.gmodstore.com/market/view/beekeeping-system)
 
-#### 🔎 How to reach me
+## 🔎 How to reach me
 [![](https://img.shields.io/badge/E--Mail-1c2f45?logo=Gmail)](mailto:timmy.the.nobody@gmail.com)
 [![](https://img.shields.io/badge/GitLab-1c2f45?logo=GitLab)](https://gitlab.com/timmy.the.nobody)
 [![](https://img.shields.io/badge/Steam-1c2f45?logo=Steam)](https://steamcommunity.com/id/timmythenobody)
