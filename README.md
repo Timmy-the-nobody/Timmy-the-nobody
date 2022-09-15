@@ -1,4 +1,4 @@
-### <p align="left">Hello there, my name is Timmy 👋
+## <p align="left">Hello there, my name is Timmy 👋
 I am a passionate developer who loves computer science, graphic design, and more globally to learn and create new things.
 
 <!-- My first approach to programming was on a sandbox game called Garry's Mod. Over the years spent on this game, I gained some experience in programming (especially in Lua) and realized that it was my thing.
