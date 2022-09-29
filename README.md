@@ -9,8 +9,8 @@
 <!-- [![github](https://img.shields.io/github/followers/Timmy-the-nobody?logo=github)](https://github.com/Timmy-the-nobody?tab=followers) -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timmy-the-nobody&layout=compact&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true"> -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=Timmy-the-nobody&count_private=true&show_icons=true&theme=github_dark">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Timmy-the-nobody&theme=github-dark-blue">
+<img src="https://github-readme-stats.vercel.app/api?username=Timmy-the-nobody&count_private=true&show_icons=true&theme=github_dark&bg_color=9edfff00&hide_border=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Timmy-the-nobody&theme=github-dark-blue&hide_border=true&background=DD272700">
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Timmy-the-nobody&theme=react-dark&hide_border=true&area=true">
 
