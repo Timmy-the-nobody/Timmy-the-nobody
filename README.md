@@ -12,7 +12,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Timmy-the-nobody&count_private=true&show_icons=true&theme=github_dark&bg_color=9edfff00&hide_border=true">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Timmy-the-nobody&theme=github-dark-blue&hide_border=true&background=DD272700](https://github-readme-streak-stats.herokuapp.com?user=TimmyTheNobody&theme=github-dark-blue&hide_border=true&background=DD272700&sideLabels=818181&currStreakLabel=818181&currStreakNum=3195FF">
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Timmy-the-nobody&theme=react-dark&hide_border=true&area=true">
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=Timmy-the-nobody&theme=react-dark&hide_border=true&area=true"> -->
 
 ## 🛠️ Technologies, languages and tools
 <!-- ![](https://img.shields.io/badge/Windows-1c2f45?logo=Windows)
