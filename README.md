@@ -49,8 +49,8 @@
 
 #### 🍇 Winemaking System
 [![](https://user-images.githubusercontent.com/51171246/218258727-cd51e210-9e1d-4202-ae98-9db7874ef121.jpg)](https://www.gmodstore.com/market/view/winemaking-system)
-> VMS System will bring something new to your server: Variable Message Signs.
-> <br>This will create new roleplay opportunities and add a new way for your player to make money.
+> This script adds a brand new way to make money as a winemaker!
+> <br>Winemaking System was designed with the idea in mind to create a realistic and immersive script with an advanced user experience that makes players want to spend hours farming with the same job.
 
 #### 🚧 VMS System
 [![](https://user-images.githubusercontent.com/51171246/218258700-f4cf69f7-7c4c-49e0-a933-19b02ebe7b62.jpg)](https://www.gmodstore.com/market/view/7421)
