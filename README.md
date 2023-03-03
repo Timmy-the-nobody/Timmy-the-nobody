@@ -82,7 +82,6 @@ ___
 #### [🐝 Beekeeping System](https://www.gmodstore.com/market/view/beekeeping-system)
 This script adds a new way to make money as a beekeper!
 <br>BKS is the perfect farming script for your new players to start making money from (almost) nothing, the main goal as a beekeeper is to clean the city of it's bee nests and to use bees to produce honey.
-<br>BKS has many cool features and is suitable for all DarkRP servers
 
 # 🔎 How to reach me
 [![](https://img.shields.io/badge/E--Mail-1c2f45?logo=Gmail)](mailto:timmy.the.nobody@gmail.com)
