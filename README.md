@@ -50,8 +50,7 @@
 <img align="left" width="50%" src="https://user-images.githubusercontent.com/51171246/218258727-cd51e210-9e1d-4202-ae98-9db7874ef121.jpg">
 
 #### [🍇 Winemaking System](https://www.gmodstore.com/market/view/winemaking-system)
-This script adds a brand new way to make money as a winemaker!
-<br>Winemaking System was designed with the idea in mind to create a realistic and immersive script with an advanced user experience that makes players want to spend hours farming with the same job.
+This script adds a brand new way to make money as a winemaker! WMS was designed with the idea in mind to create a realistic and immersive script with an advanced user experience that makes players want to spend hours farming with the same job.
 ___
 <img align="left" width="50%" src="https://user-images.githubusercontent.com/51171246/218258700-f4cf69f7-7c4c-49e0-a933-19b02ebe7b62.jpg">
 
