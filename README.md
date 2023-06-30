@@ -2,7 +2,7 @@
 <p>I am a passionate developer who loves computer science, graphic design, and more globally to learn and create new things.</p>
 <p>I created several mods on a few sandbox games, some of these mods are for sale, but I spent most of my time on these games working for communities as a freelancer.</p>
  
-# 📈 Cool stats thing
+## 📈 Cool stats thing
 [![wakatime](https://wakatime.com/badge/user/82906db0-5de5-44ab-a813-73c42b06725a.svg)](https://wakatime.com/@82906db0-5de5-44ab-a813-73c42b06725a)
 ![](https://komarev.com/ghpvc/?username=Timmy-the-nobody)
 
@@ -14,13 +14,13 @@
 
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Timmy-the-nobody&theme=react-dark&hide_border=true&area=true"> -->
 
-# 🛠️ Technologies, languages and tools
+## 🛠️ Technologies & languages
 <!-- ![](https://img.shields.io/badge/Windows-1c2f45?logo=Windows)
 ![](https://img.shields.io/badge/Android-1c2f45?logo=Android) -->
 
 ![](https://img.shields.io/badge/Lua-1c2f45?logo=Lua)
-![](https://img.shields.io/badge/React-1c2f45?logo=React)
 ![](https://img.shields.io/badge/JavaScript-1c2f45?logo=JavaScript)
+![](https://img.shields.io/badge/React-1c2f45?logo=React)
 ![](https://img.shields.io/badge/Sass-1c2f45?logo=Sass)
 ![](https://img.shields.io/badge/CSS-1c2f45?logo=CSS3)
 ![](https://img.shields.io/badge/HTML-1c2f45?logo=HTML5)
@@ -29,6 +29,7 @@
 ![](https://img.shields.io/badge/PostgreSQL-1c2f45?logo=PostgreSQL)
 ![](https://img.shields.io/badge/SQLite-1c2f45?logo=SQLite)
 
+## 🧰 Tools
 ![](https://img.shields.io/badge/Git-1c2f45?logo=Git)
 ![](https://img.shields.io/badge/GitHub-1c2f45?logo=GitHub)
 ![](https://img.shields.io/badge/GitLab-1c2f45?logo=GitLab)
@@ -41,7 +42,7 @@
 ![](https://img.shields.io/badge/Ableton_Live-1c2f45?logo=AbletonLive)
 
 
-# 🛒 [Gmodstore.com](https://www.gmodstore.com/users/timmythenobody/addons) addons
+## 🛒 [Gmodstore.com](https://www.gmodstore.com/users/timmythenobody/addons) addons
 
 <!--
 [![](https://img.shields.io/badge/🍇_Winemaking_System-1c2f45)]()
@@ -88,7 +89,7 @@ ___
 This script adds a new way to make money as a beekeper!
 <br>BKS is the perfect farming script for your new players to start making money from (almost) nothing, the main goal as a beekeeper is to clean the city of it's bee nests and to use bees to produce honey.
 
-# 🔎 How to reach me
+## 🔎 How to reach me
 [![](https://img.shields.io/badge/E--Mail-1c2f45?logo=Gmail)](mailto:timmy.the.nobody@gmail.com)
 [![](https://img.shields.io/badge/GitLab-1c2f45?logo=GitLab)](https://gitlab.com/timmy.the.nobody)
 [![](https://img.shields.io/badge/Steam-1c2f45?logo=Steam)](https://steamcommunity.com/id/timmythenobody)
