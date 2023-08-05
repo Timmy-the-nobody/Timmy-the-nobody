@@ -4,7 +4,7 @@
  
 ## 📈 Cool stats thing
 [![wakatime](https://wakatime.com/badge/user/82906db0-5de5-44ab-a813-73c42b06725a.svg)](https://wakatime.com/@82906db0-5de5-44ab-a813-73c42b06725a)
-![](https://komarev.com/ghpvc/?username=Timmy-the-nobody)
+<!-- ![](https://komarev.com/ghpvc/?username=Timmy-the-nobody) -->
 
 <!-- [![github](https://img.shields.io/github/followers/Timmy-the-nobody?logo=github)](https://github.com/Timmy-the-nobody?tab=followers) -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timmy-the-nobody&layout=compact&count_private=true&show_icons=true&theme=github_dark&include_all_commits=true"> -->
