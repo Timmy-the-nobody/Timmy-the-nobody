@@ -24,23 +24,20 @@
 ![](https://img.shields.io/badge/Sass-1c2f45?logo=Sass)
 ![](https://img.shields.io/badge/CSS-1c2f45?logo=CSS3)
 ![](https://img.shields.io/badge/HTML-1c2f45?logo=HTML5)
-
 ![](https://img.shields.io/badge/MySQL-1c2f45?logo=MySQL)
 ![](https://img.shields.io/badge/PostgreSQL-1c2f45?logo=PostgreSQL)
 ![](https://img.shields.io/badge/SQLite-1c2f45?logo=SQLite)
 
 ## 🧰 Tools
 ![](https://img.shields.io/badge/Git-1c2f45?logo=Git)
-![](https://img.shields.io/badge/GitHub-1c2f45?logo=GitHub)
-![](https://img.shields.io/badge/GitLab-1c2f45?logo=GitLab)
 ![](https://img.shields.io/badge/GitKraken-1c2f45?logo=GitKraken)
-
 ![](https://img.shields.io/badge/Visual_Studio_Code-1c2f45?logo=VisualStudioCode)
 ![](https://img.shields.io/badge/Unreal_Engine-1c2f45?logo=UnrealEngine)
 ![](https://img.shields.io/badge/WakaTime-1c2f45?logo=WakaTime)
 ![](https://img.shields.io/badge/GIMP-1c2f45?logo=GIMP)
 ![](https://img.shields.io/badge/Ableton_Live-1c2f45?logo=AbletonLive)
-
+<!--![](https://img.shields.io/badge/GitHub-1c2f45?logo=GitHub)-->
+<!--![](https://img.shields.io/badge/GitLab-1c2f45?logo=GitLab)-->
 
 ## 🛒 [Gmodstore.com](https://www.gmodstore.com/users/timmythenobody/addons) addons
 <details>
