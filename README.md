@@ -39,7 +39,7 @@
 <!--![](https://img.shields.io/badge/GitHub-1c2f45?logo=GitHub)-->
 <!--![](https://img.shields.io/badge/GitLab-1c2f45?logo=GitLab)-->
 
-## 🛒 [Gmodstore.com](https://www.gmodstore.com/users/timmythenobody/addons) addons
+## 🛒 [Gmodstore.com](https://www.gmodstore.com/users/timmythenobody/products) addons
 <details>
  <summary><h4>Click me</h4></summary>
 <!--
