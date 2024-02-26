@@ -1,6 +1,5 @@
 ## Hello there, my name is Timmy 👋
 <p>I am a passionate developer who loves computer science, graphic design, and more globally to learn and create new things.</p>
-<p>I created several mods on a few sandbox games, some of these mods are for sale, but I spent most of my time on these games working for communities as a freelancer.</p>
  
 ## 📈 Cool stats thing
 [![wakatime](https://wakatime.com/badge/user/82906db0-5de5-44ab-a813-73c42b06725a.svg)](https://wakatime.com/@82906db0-5de5-44ab-a813-73c42b06725a)
