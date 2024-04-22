@@ -18,9 +18,11 @@
 ![](https://img.shields.io/badge/Android-1c2f45?logo=Android) -->
 
 ![](https://img.shields.io/badge/Lua-1c2f45?logo=Lua)
-![](https://img.shields.io/badge/JavaScript-1c2f45?logo=JavaScript)
 ![](https://img.shields.io/badge/React-1c2f45?logo=React)
 ![](https://img.shields.io/badge/Sass-1c2f45?logo=Sass)
+![](https://img.shields.io/badge/Craco-1c2f45?logo=compilerexplorer)
+![](https://img.shields.io/badge/Million.js-1c2f45?logo=monster)
+![](https://img.shields.io/badge/JavaScript-1c2f45?logo=JavaScript)
 ![](https://img.shields.io/badge/CSS-1c2f45?logo=CSS3)
 ![](https://img.shields.io/badge/HTML-1c2f45?logo=HTML5)
 ![](https://img.shields.io/badge/MySQL-1c2f45?logo=MySQL)
