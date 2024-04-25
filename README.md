@@ -31,13 +31,13 @@
 ![](https://img.shields.io/badge/Npm-1c2f45?style=for-the-badge&logo=npm)
 ![](https://img.shields.io/badge/Git-1c2f45?style=for-the-badge&logo=Git)
 ![](https://img.shields.io/badge/GitHub-1c2f45?style=for-the-badge&logo=github)
-![](https://img.shields.io/badge/GitLab-1c2f45?style=for-the-badge&logo=gitlab)
 ![](https://img.shields.io/badge/GitHub_Desktop-1c2f45?style=for-the-badge&logo=github)
 ![](https://img.shields.io/badge/GitKraken-1c2f45?style=for-the-badge&logo=GitKraken)
+![](https://img.shields.io/badge/GitLab-1c2f45?style=for-the-badge&logo=gitlab)
 ![](https://img.shields.io/badge/Craco-1c2f45?style=for-the-badge&logo=compilerexplorer)
 ![](https://img.shields.io/badge/Million.js-1c2f45?style=for-the-badge&logo=monster)
 ![](https://img.shields.io/badge/JQuery-1c2f45?style=for-the-badge&logo=jquery)
-
+![](https://img.shields.io/badge/XAMPP-1c2f45?style=for-the-badge&logo=xampp)
 
 ## 🧰 Tools
 ![](https://img.shields.io/badge/Visual_Studio_Code-1c2f45?style=for-the-badge&logo=VisualStudioCode)
