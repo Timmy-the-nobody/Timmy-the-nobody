@@ -13,25 +13,33 @@
 
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Timmy-the-nobody&theme=react-dark&hide_border=true&area=true"> -->
 
-## 🛠️ Technologies & languages
+## 🛠️ Languages
 <!-- ![](https://img.shields.io/badge/Windows-1c2f45?logo=Windows)
 ![](https://img.shields.io/badge/Android-1c2f45?logo=Android) -->
-
 ![](https://img.shields.io/badge/Lua-1c2f45?logo=Lua)
-![](https://img.shields.io/badge/React-1c2f45?logo=React)
-![](https://img.shields.io/badge/Sass-1c2f45?logo=Sass)
-![](https://img.shields.io/badge/Craco-1c2f45?logo=compilerexplorer)
-![](https://img.shields.io/badge/Million.js-1c2f45?logo=monster)
-![](https://img.shields.io/badge/JavaScript-1c2f45?logo=JavaScript)
-![](https://img.shields.io/badge/CSS-1c2f45?logo=CSS3)
 ![](https://img.shields.io/badge/HTML-1c2f45?logo=HTML5)
+![](https://img.shields.io/badge/CSS-1c2f45?logo=CSS3)
+![](https://img.shields.io/badge/JavaScript-1c2f45?logo=JavaScript)
 ![](https://img.shields.io/badge/MySQL-1c2f45?logo=MySQL)
 ![](https://img.shields.io/badge/PostgreSQL-1c2f45?logo=PostgreSQL)
 ![](https://img.shields.io/badge/SQLite-1c2f45?logo=SQLite)
 
-## 🧰 Tools
+## 🛠️ Tech Stack
+![](https://img.shields.io/badge/React-1c2f45?logo=React)
+![](https://img.shields.io/badge/Sass-1c2f45?logo=Sass)
+![](https://img.shields.io/badge/Node.js-1c2f45?logo=nodedotjs)
+![](https://img.shields.io/badge/Npm-1c2f45?logo=npm)
 ![](https://img.shields.io/badge/Git-1c2f45?logo=Git)
+![](https://img.shields.io/badge/GitHub-1c2f45?logo=github)
+![](https://img.shields.io/badge/GitLab-1c2f45?logo=gitlab)
+![](https://img.shields.io/badge/GitHub_Desktop-1c2f45?logo=github)
 ![](https://img.shields.io/badge/GitKraken-1c2f45?logo=GitKraken)
+![](https://img.shields.io/badge/Craco-1c2f45?logo=compilerexplorer)
+![](https://img.shields.io/badge/Million.js-1c2f45?logo=monster)
+![](https://img.shields.io/badge/JQuery-1c2f45?logo=jquery)
+
+
+## 🧰 Tools
 ![](https://img.shields.io/badge/Visual_Studio_Code-1c2f45?logo=VisualStudioCode)
 ![](https://img.shields.io/badge/Unreal_Engine-1c2f45?logo=UnrealEngine)
 ![](https://img.shields.io/badge/WakaTime-1c2f45?logo=WakaTime)
