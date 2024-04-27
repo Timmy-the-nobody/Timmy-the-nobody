@@ -37,6 +37,7 @@
 ![](https://img.shields.io/badge/Craco-1c2f45?style=for-the-badge&logo=compilerexplorer)
 ![](https://img.shields.io/badge/Million.js-1c2f45?style=for-the-badge&logo=monster)
 ![](https://img.shields.io/badge/JQuery-1c2f45?style=for-the-badge&logo=jquery)
+![](https://img.shields.io/badge/Webpack-1c2f45?style=for-the-badge&logo=webpack)
 ![](https://img.shields.io/badge/XAMPP-1c2f45?style=for-the-badge&logo=xampp)
 
 ## 🧰 Tools
