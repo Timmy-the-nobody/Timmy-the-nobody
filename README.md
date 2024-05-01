@@ -21,9 +21,6 @@
 ![](https://img.shields.io/badge/HTML-2c3e50?style=for-the-badge&logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-2c3e50?style=for-the-badge&logo=CSS3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-2c3e50?style=for-the-badge&logo=JavaScript&logoColor=white)
-![](https://img.shields.io/badge/MySQL-2c3e50?style=for-the-badge&logo=MySQL&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-2c3e50?style=for-the-badge&logo=PostgreSQL&logoColor=white)
-![](https://img.shields.io/badge/SQLite-2c3e50?style=for-the-badge&logo=SQLite&logoColor=white)
 
 ## 🛠️ Tech Stack
 ![](https://img.shields.io/badge/React-27ae60?style=for-the-badge&logo=React&logoColor=white)
@@ -32,8 +29,6 @@
 ![](https://img.shields.io/badge/Npm-27ae60?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/Git-27ae60?style=for-the-badge&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-27ae60?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/GitHub_Desktop-27ae60?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/GitKraken-27ae60?style=for-the-badge&logo=GitKraken&logoColor=white)
 ![](https://img.shields.io/badge/GitLab-27ae60?style=for-the-badge&logo=gitlab&logoColor=white)
 ![](https://img.shields.io/badge/Craco-27ae60?style=for-the-badge&logo=compilerexplorer&logoColor=white)
 ![](https://img.shields.io/badge/Million.js-27ae60?style=for-the-badge&logo=monster&logoColor=white)
@@ -41,12 +36,19 @@
 ![](https://img.shields.io/badge/Webpack-27ae60?style=for-the-badge&logo=webpack&logoColor=white)
 ![](https://img.shields.io/badge/XAMPP-27ae60?style=for-the-badge&logo=xampp&logoColor=white)
 
+## 🛢️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-2980b9?style=for-the-badge&logo=MySQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2980b9?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-2980b9?style=for-the-badge&logo=SQLite&logoColor=white)
+
 ## 🧰 Tools
-![](https://img.shields.io/badge/Visual_Studio_Code-f39c12?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
-![](https://img.shields.io/badge/Unreal_Engine-f39c12?style=for-the-badge&logo=UnrealEngine&logoColor=white)
-![](https://img.shields.io/badge/WakaTime-f39c12?style=for-the-badge&logo=WakaTime&logoColor=white)
-![](https://img.shields.io/badge/GIMP-f39c12?style=for-the-badge&logo=GIMP&logoColor=white)
-![](https://img.shields.io/badge/Ableton_Live-f39c12?style=for-the-badge&logo=AbletonLive&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_Code-16a085?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
+![](https://img.shields.io/badge/GitHub_Desktop-16a085?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/GitKraken-16a085?style=for-the-badge&logo=GitKraken&logoColor=white)
+![](https://img.shields.io/badge/Unreal_Engine-16a085?style=for-the-badge&logo=UnrealEngine&logoColor=white)
+![](https://img.shields.io/badge/WakaTime-16a085?style=for-the-badge&logo=WakaTime&logoColor=white)
+![](https://img.shields.io/badge/GIMP-16a085?style=for-the-badge&logo=GIMP&logoColor=white)
+![](https://img.shields.io/badge/Ableton_Live-16a085?style=for-the-badge&logo=AbletonLive&logoColor=white)
 <!--![](https://img.shields.io/badge/GitHub-1c2f45?logo=GitHub)-->
 <!--![](https://img.shields.io/badge/GitLab-1c2f45?logo=GitLab)-->
 
