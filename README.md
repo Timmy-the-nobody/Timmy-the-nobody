@@ -1,4 +1,4 @@
- ![github-header-image](https://github.com/Timmy-the-nobody/Timmy-the-nobody/assets/51171246/0346226b-3a3a-4be6-9dc0-6fa0f63d43fa)
+![github-header-image](https://github.com/Timmy-the-nobody/Timmy-the-nobody/assets/51171246/3be0198b-74c1-454c-a91f-4f38defee2f4)
 
 ### Passionate fullstack developer who loves computer science, graphic design, and more globally to learn and create new things.
 
