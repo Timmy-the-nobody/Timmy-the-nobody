@@ -1,6 +1,7 @@
-## Hello there, my name is Timmy 👋
-<p>I am a passionate developer who loves computer science, graphic design, and more globally to learn and create new things.</p>
- 
+ ![github-header-image](https://github.com/Timmy-the-nobody/Timmy-the-nobody/assets/51171246/0346226b-3a3a-4be6-9dc0-6fa0f63d43fa)
+
+### Passionate fullstack developer who loves computer science, graphic design, and more globally to learn and create new things.
+
 ## 📈 Cool stats thing
 [![wakatime](https://wakatime.com/badge/user/82906db0-5de5-44ab-a813-73c42b06725a.svg)](https://wakatime.com/@82906db0-5de5-44ab-a813-73c42b06725a)
 <!-- ![](https://komarev.com/ghpvc/?username=Timmy-the-nobody) -->
