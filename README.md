@@ -38,6 +38,7 @@
 ![](https://img.shields.io/badge/JQuery-27ae60?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/Webpack-27ae60?style=for-the-badge&logo=webpack&logoColor=white)
 ![](https://img.shields.io/badge/XAMPP-27ae60?style=for-the-badge&logo=xampp&logoColor=white)
+![](https://img.shields.io/badge/WampServer-27ae60?style=for-the-badge&logo=weblate&logoColor=white)
 
 ## 🧰 Tools
 ![](https://img.shields.io/badge/Visual_Studio_Code-16a085?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
