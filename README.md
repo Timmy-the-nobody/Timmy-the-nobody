@@ -47,7 +47,10 @@
 ![](https://img.shields.io/badge/Unreal_Engine-16a085?style=for-the-badge&logo=UnrealEngine&logoColor=white)
 ![](https://img.shields.io/badge/WakaTime-16a085?style=for-the-badge&logo=WakaTime&logoColor=white)
 ![](https://img.shields.io/badge/GIMP-16a085?style=for-the-badge&logo=GIMP&logoColor=white)
-![](https://img.shields.io/badge/Ableton_Live-16a085?style=for-the-badge&logo=AbletonLive&logoColor=white)
+![](https://img.shields.io/badge/Ableton_Live-16a085?style=for-the-badge&logo=scrollreveal&logoColor=white)
+![](https://img.shields.io/badge/Resolve-16a085?style=for-the-badge&logo=davinciresolve&logoColor=white)
+
+
 <!--![](https://img.shields.io/badge/GitHub-1c2f45?logo=GitHub)-->
 <!--![](https://img.shields.io/badge/GitLab-1c2f45?logo=GitLab)-->
 
