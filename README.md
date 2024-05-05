@@ -37,13 +37,13 @@
 ![](https://img.shields.io/badge/Million.js-27ae60?style=for-the-badge&logo=monster&logoColor=white)
 ![](https://img.shields.io/badge/JQuery-27ae60?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/Webpack-27ae60?style=for-the-badge&logo=webpack&logoColor=white)
-![](https://img.shields.io/badge/XAMPP-27ae60?style=for-the-badge&logo=xampp&logoColor=white)
-![](https://img.shields.io/badge/WampServer-27ae60?style=for-the-badge&logo=weblate&logoColor=white)
 
 ## 🧰 Tools
 ![](https://img.shields.io/badge/Visual_Studio_Code-16a085?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![](https://img.shields.io/badge/GitHub_Desktop-16a085?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/GitKraken-16a085?style=for-the-badge&logo=GitKraken&logoColor=white)
+![](https://img.shields.io/badge/XAMPP-16a085?style=for-the-badge&logo=xampp&logoColor=white)
+![](https://img.shields.io/badge/WampServer-16a085?style=for-the-badge&logo=weblate&logoColor=white)
 ![](https://img.shields.io/badge/Unreal_Engine-16a085?style=for-the-badge&logo=UnrealEngine&logoColor=white)
 ![](https://img.shields.io/badge/WakaTime-16a085?style=for-the-badge&logo=WakaTime&logoColor=white)
 ![](https://img.shields.io/badge/GIMP-16a085?style=for-the-badge&logo=GIMP&logoColor=white)
