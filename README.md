@@ -18,16 +18,16 @@
 <!-- ![](https://img.shields.io/badge/Windows-1c2f45?logo=Windows)
 ![](https://img.shields.io/badge/Android-1c2f45?logo=Android) -->
 ![](https://img.shields.io/badge/Lua-2c3e50?style=for-the-badge&logo=Lua&logoColor=white)
-![](https://img.shields.io/badge/HTML-2c3e50?style=for-the-badge&logo=HTML5&logoColor=white)
-![](https://img.shields.io/badge/CSS-2c3e50?style=for-the-badge&logo=CSS3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-2c3e50?style=for-the-badge&logo=JavaScript&logoColor=white)
+![](https://img.shields.io/badge/HTML-2c3e50?style=for-the-badge&logo=HTML5&logoColor=white)
+![](https://img.shields.io/badge/Sass-2c3e50?style=for-the-badge&logo=Sass&logoColor=white)
+![](https://img.shields.io/badge/CSS-2c3e50?style=for-the-badge&logo=CSS3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-2980b9?style=for-the-badge&logo=MySQL&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2980b9?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-2980b9?style=for-the-badge&logo=SQLite&logoColor=white)
 
 ## 🛠️ Tech Stack
 ![](https://img.shields.io/badge/React-27ae60?style=for-the-badge&logo=React&logoColor=white)
-![](https://img.shields.io/badge/Sass-27ae60?style=for-the-badge&logo=Sass&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-27ae60?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Npm-27ae60?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/Git-27ae60?style=for-the-badge&logo=Git&logoColor=white)
