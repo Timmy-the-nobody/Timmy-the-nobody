@@ -14,7 +14,7 @@
 
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Timmy-the-nobody&theme=react-dark&hide_border=true&area=true"> -->
 
-## 🛠️ Languages/Databases
+## 🛠️ Languages/Tech Stack/Tools/...
 <!-- ![](https://img.shields.io/badge/Windows-1c2f45?logo=Windows)
 ![](https://img.shields.io/badge/Android-1c2f45?logo=Android) -->
 ![](https://img.shields.io/badge/Lua-2c3e50?style=for-the-badge&logo=Lua&logoColor=white)
@@ -26,7 +26,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2980b9?style=for-the-badge&logo=PostgreSQL&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-2980b9?style=for-the-badge&logo=SQLite&logoColor=white)
 
-## 🛠️ Tech Stack
 ![](https://img.shields.io/badge/React-27ae60?style=for-the-badge&logo=React&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-27ae60?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Npm-27ae60?style=for-the-badge&logo=npm&logoColor=white)
@@ -38,7 +37,6 @@
 ![](https://img.shields.io/badge/JQuery-27ae60?style=for-the-badge&logo=jquery&logoColor=white)
 ![](https://img.shields.io/badge/Webpack-27ae60?style=for-the-badge&logo=webpack&logoColor=white)
 
-## 🧰 Tools
 ![](https://img.shields.io/badge/Visual_Studio_Code-16a085?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![](https://img.shields.io/badge/GitHub_Desktop-16a085?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/GitKraken-16a085?style=for-the-badge&logo=GitKraken&logoColor=white)
