@@ -103,10 +103,8 @@ This script adds a new way to make money as a beekeper!
 </details>
 
 ## 🔎 How to reach me
-[![](https://img.shields.io/badge/E--Mail-1c2f45?logo=Gmail)](mailto:timmy.the.nobody@gmail.com)
 [![](https://img.shields.io/badge/GitLab-1c2f45?logo=GitLab)](https://gitlab.com/timmy.the.nobody)
 [![](https://img.shields.io/badge/Steam-1c2f45?logo=Steam)](https://steamcommunity.com/id/timmythenobody)
-[![](https://img.shields.io/badge/Discord-1c2f45?logo=Discord)](https://discordapp.com/users/317885698747400194)
 [![](https://img.shields.io/badge/YouTube-1c2f45?logo=YouTube)](https://www.youtube.com/channel/UCxGjRU8uZkj7oK8Tv22aC7A/featured)
 [![](https://img.shields.io/badge/Twitch-1c2f45?logo=Twitch)](https://www.twitch.tv/timmythenobody)
 
