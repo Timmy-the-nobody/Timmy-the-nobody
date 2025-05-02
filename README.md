@@ -32,6 +32,7 @@
 ![](https://img.shields.io/badge/Git-27ae60?style=for-the-badge&logo=Git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-27ae60?style=for-the-badge&logo=github&logoColor=white)
 ![](https://img.shields.io/badge/GitLab-27ae60?style=for-the-badge&logo=gitlab&logoColor=white)
+![](https://img.shields.io/badge/Zustand-27ae60?style=for-the-badge&logo=redux&logoColor=white)
 ![](https://img.shields.io/badge/Craco-27ae60?style=for-the-badge&logo=compilerexplorer&logoColor=white)
 ![](https://img.shields.io/badge/Million.js-27ae60?style=for-the-badge&logo=monster&logoColor=white)
 ![](https://img.shields.io/badge/JQuery-27ae60?style=for-the-badge&logo=jquery&logoColor=white)
