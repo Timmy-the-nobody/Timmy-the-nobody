@@ -1,8 +1,8 @@
 ![github-header-image](https://github.com/Timmy-the-nobody/Timmy-the-nobody/assets/51171246/96a95821-a54f-4926-a1fd-7d2128c6bd25)
 
-### Passionate fullstack developer who loves computer science, graphic design, and more globally to learn and create new things.
+### Passionate Fullstack Developer with a passion for Computer Science & Innovative Projects
 
-## 📈 Cool stats thing
+## 📈 Coding Activity & Stats
 [![wakatime](https://wakatime.com/badge/user/82906db0-5de5-44ab-a813-73c42b06725a.svg)](https://wakatime.com/@82906db0-5de5-44ab-a813-73c42b06725a)
 <!-- ![](https://komarev.com/ghpvc/?username=Timmy-the-nobody) -->
 
@@ -14,41 +14,46 @@
 
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Timmy-the-nobody&theme=react-dark&hide_border=true&area=true"> -->
 
-## 🛠️ Languages/Tech Stack/Tools/...
-<!-- ![](https://img.shields.io/badge/Windows-1c2f45?logo=Windows)
-![](https://img.shields.io/badge/Android-1c2f45?logo=Android) -->
-![](https://img.shields.io/badge/Lua-2c3e50?style=for-the-badge&logo=Lua&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-2c3e50?style=for-the-badge&logo=JavaScript&logoColor=white)
-![](https://img.shields.io/badge/HTML-2c3e50?style=for-the-badge&logo=HTML5&logoColor=white)
-![](https://img.shields.io/badge/Sass-2c3e50?style=for-the-badge&logo=Sass&logoColor=white)
-![](https://img.shields.io/badge/CSS-2c3e50?style=for-the-badge&logo=CSS3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-2980b9?style=for-the-badge&logo=MySQL&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2980b9?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+## 🛠️ Tech Stack & Tools
+
+**Languages:**  
+![Lua](https://img.shields.io/badge/Lua-2c3e50?style=for-the-badge&logo=Lua&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-2c3e50?style=for-the-badge&logo=JavaScript&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML-2c3e50?style=for-the-badge&logo=HTML5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-2c3e50?style=for-the-badge&logo=CSS3&logoColor=white) 
+![Sass](https://img.shields.io/badge/Sass-2c3e50?style=for-the-badge&logo=Sass&logoColor=white)
+
+**Frontend Frameworks & Libraries:**  
+![React](https://img.shields.io/badge/React-27ae60?style=for-the-badge&logo=React&logoColor=white) 
+![JQuery](https://img.shields.io/badge/JQuery-27ae60?style=for-the-badge&logo=jquery&logoColor=white) 
+![Million.js](https://img.shields.io/badge/Million.js-27ae60?style=for-the-badge&logo=monster&logoColor=white) 
+![Zustand](https://img.shields.io/badge/Zustand-27ae60?style=for-the-badge&logo=redux&logoColor=white) 
+![Craco](https://img.shields.io/badge/Craco-27ae60?style=for-the-badge&logo=compilerexplorer&logoColor=white) 
+![Webpack](https://img.shields.io/badge/Webpack-27ae60?style=for-the-badge&logo=webpack&logoColor=white)
+
+**Backend & Database:**  
+![Node.js](https://img.shields.io/badge/Node.js-27ae60?style=for-the-badge&logo=nodedotjs&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-2980b9?style=for-the-badge&logo=MySQL&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2980b9?style=for-the-badge&logo=PostgreSQL&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/SQLite-2980b9?style=for-the-badge&logo=SQLite&logoColor=white)
 
-![](https://img.shields.io/badge/React-27ae60?style=for-the-badge&logo=React&logoColor=white)
-![](https://img.shields.io/badge/Node.js-27ae60?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/Npm-27ae60?style=for-the-badge&logo=npm&logoColor=white)
-![](https://img.shields.io/badge/Git-27ae60?style=for-the-badge&logo=Git&logoColor=white)
-![](https://img.shields.io/badge/GitHub-27ae60?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/GitLab-27ae60?style=for-the-badge&logo=gitlab&logoColor=white)
-![](https://img.shields.io/badge/Zustand-27ae60?style=for-the-badge&logo=redux&logoColor=white)
-![](https://img.shields.io/badge/Craco-27ae60?style=for-the-badge&logo=compilerexplorer&logoColor=white)
-![](https://img.shields.io/badge/Million.js-27ae60?style=for-the-badge&logo=monster&logoColor=white)
-![](https://img.shields.io/badge/JQuery-27ae60?style=for-the-badge&logo=jquery&logoColor=white)
-![](https://img.shields.io/badge/Webpack-27ae60?style=for-the-badge&logo=webpack&logoColor=white)
+**Version Control & Tools:**  
+![Git](https://img.shields.io/badge/Git-27ae60?style=for-the-badge&logo=Git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-27ae60?style=for-the-badge&logo=github&logoColor=white) 
+![GitLab](https://img.shields.io/badge/GitLab-27ae60?style=for-the-badge&logo=gitlab&logoColor=white) 
+![Npm](https://img.shields.io/badge/Npm-27ae60?style=for-the-badge&logo=npm&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-16a085?style=for-the-badge&logo=VisualStudioCode&logoColor=white) 
+![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-16a085?style=for-the-badge&logo=github&logoColor=white) 
+![GitKraken](https://img.shields.io/badge/GitKraken-16a085?style=for-the-badge&logo=GitKraken&logoColor=white) 
+![XAMPP](https://img.shields.io/badge/XAMPP-16a085?style=for-the-badge&logo=xampp&logoColor=white) 
+![WampServer](https://img.shields.io/badge/WampServer-16a085?style=for-the-badge&logo=weblate&logoColor=white)
 
-![](https://img.shields.io/badge/Visual_Studio_Code-16a085?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
-![](https://img.shields.io/badge/GitHub_Desktop-16a085?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/GitKraken-16a085?style=for-the-badge&logo=GitKraken&logoColor=white)
-![](https://img.shields.io/badge/XAMPP-16a085?style=for-the-badge&logo=xampp&logoColor=white)
-![](https://img.shields.io/badge/WampServer-16a085?style=for-the-badge&logo=weblate&logoColor=white)
-![](https://img.shields.io/badge/Unreal_Engine-16a085?style=for-the-badge&logo=UnrealEngine&logoColor=white)
-![](https://img.shields.io/badge/WakaTime-16a085?style=for-the-badge&logo=WakaTime&logoColor=white)
-![](https://img.shields.io/badge/GIMP-16a085?style=for-the-badge&logo=GIMP&logoColor=white)
-![](https://img.shields.io/badge/Ableton_Live-16a085?style=for-the-badge&logo=scrollreveal&logoColor=white)
-![](https://img.shields.io/badge/Resolve-16a085?style=for-the-badge&logo=davinciresolve&logoColor=white)
-
+**Other Tools:**  
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-16a085?style=for-the-badge&logo=UnrealEngine&logoColor=white) 
+![WakaTime](https://img.shields.io/badge/WakaTime-16a085?style=for-the-badge&logo=WakaTime&logoColor=white) 
+![GIMP](https://img.shields.io/badge/GIMP-16a085?style=for-the-badge&logo=GIMP&logoColor=white) 
+![Ableton Live](https://img.shields.io/badge/Ableton_Live-16a085?style=for-the-badge&logo=scrollreveal&logoColor=white) 
+![DaVinci Resolve](https://img.shields.io/badge/Resolve-16a085?style=for-the-badge&logo=davinciresolve&logoColor=white)
 
 <!--![](https://img.shields.io/badge/GitHub-1c2f45?logo=GitHub)-->
 <!--![](https://img.shields.io/badge/GitLab-1c2f45?logo=GitLab)-->
