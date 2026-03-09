@@ -25,10 +25,11 @@
 
 **Frontend Frameworks & Libraries:**  
 ![React](https://img.shields.io/badge/React-27ae60?style=for-the-badge&logo=React&logoColor=white) 
-![JQuery](https://img.shields.io/badge/JQuery-27ae60?style=for-the-badge&logo=jquery&logoColor=white) 
-![Million.js](https://img.shields.io/badge/Million.js-27ae60?style=for-the-badge&logo=monster&logoColor=white) 
 ![Zustand](https://img.shields.io/badge/Zustand-27ae60?style=for-the-badge&logo=redux&logoColor=white) 
-![Craco](https://img.shields.io/badge/Craco-27ae60?style=for-the-badge&logo=compilerexplorer&logoColor=white) 
+![Vite](https://img.shields.io/badge/Vite-27ae60?style=for-the-badge&logo=redux&logoColor=white)
+![Craco](https://img.shields.io/badge/Craco-27ae60?style=for-the-badge&logo=compilerexplorer&logoColor=white)
+![Million.js](https://img.shields.io/badge/Million.js-27ae60?style=for-the-badge&logo=monster&logoColor=white) 
+![JQuery](https://img.shields.io/badge/JQuery-27ae60?style=for-the-badge&logo=jquery&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-27ae60?style=for-the-badge&logo=webpack&logoColor=white)
 
 **Backend & Database:**  
