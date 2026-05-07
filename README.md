@@ -63,7 +63,7 @@
 <!--![](https://img.shields.io/badge/GitLab-1c2f45?logo=GitLab)-->
 
 **Projects**
-- [Nebula Prods](https://nebula-prods.com/website/)
+- [Nebula](https://nebula-prods.com/website/)
 - [Zenkai](https://zenkai-rp.com/)
 
 ## 🛒 [Gmodstore.com](https://www.gmodstore.com/users/timmythenobody/products) addons
