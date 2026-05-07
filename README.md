@@ -46,8 +46,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-16a085?style=for-the-badge&logo=VisualStudioCode&logoColor=white) 
 ![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-16a085?style=for-the-badge&logo=github&logoColor=white) 
 ![GitKraken](https://img.shields.io/badge/GitKraken-16a085?style=for-the-badge&logo=GitKraken&logoColor=white) 
-![XAMPP](https://img.shields.io/badge/XAMPP-16a085?style=for-the-badge&logo=xampp&logoColor=white) 
+![XAMPP](https://img.shields.io/badge/XAMPP-16a085?style=for-the-badge&logo=xampp&logoColor=white)
 ![WampServer](https://img.shields.io/badge/WampServer-16a085?style=for-the-badge&logo=weblate&logoColor=white)
+![Claude Code](https://img.shields.io/badge/WampServer-16a085?style=for-the-badge&logo=claude&logoColor=white)
 
 **Other Tools:**  
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-16a085?style=for-the-badge&logo=UnrealEngine&logoColor=white) 
