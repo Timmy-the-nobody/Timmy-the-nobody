@@ -1,6 +1,6 @@
-![github-header-image](https://github.com/Timmy-the-nobody/Timmy-the-nobody/assets/51171246/96a95821-a54f-4926-a1fd-7d2128c6bd25)
+<!-- ![github-header-image](https://github.com/Timmy-the-nobody/Timmy-the-nobody/assets/51171246/96a95821-a54f-4926-a1fd-7d2128c6bd25) -->
 
-### Passionate Fullstack Developer with a passion for Computer Science & Innovative Projects
+<!-- ### Passionate Fullstack Developer with a passion for Computer Science & Innovative Projects -->
 
 ## 📈 Coding Activity & Stats
 [![wakatime](https://wakatime.com/badge/user/82906db0-5de5-44ab-a813-73c42b06725a.svg)](https://wakatime.com/@82906db0-5de5-44ab-a813-73c42b06725a)
