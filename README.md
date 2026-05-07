@@ -1,3 +1,5 @@
+## [Wishlist nanos world™](https://store.steampowered.com/app/1841660/)
+
 <!-- ![github-header-image](https://github.com/Timmy-the-nobody/Timmy-the-nobody/assets/51171246/96a95821-a54f-4926-a1fd-7d2128c6bd25) -->
 
 <!-- ### Passionate Fullstack Developer with a passion for Computer Science & Innovative Projects -->
@@ -59,6 +61,10 @@
 
 <!--![](https://img.shields.io/badge/GitHub-1c2f45?logo=GitHub)-->
 <!--![](https://img.shields.io/badge/GitLab-1c2f45?logo=GitLab)-->
+
+**Projects**
+- [Nebula Prods](https://nebula-prods.com/website/)
+- [Zenkai](https://zenkai-rp.com/)
 
 ## 🛒 [Gmodstore.com](https://www.gmodstore.com/users/timmythenobody/products) addons
 <details>
